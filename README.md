@@ -33,4 +33,4 @@ This project calculates **insurance eligibility** and **premium amounts** based 
 1. Clone the repository:
    ```bash
    git clone https://github.com/harryallenp1/Proj_Insurancecalc.git
-   cd insurance-calculator
+   cd Harry_T1.py
