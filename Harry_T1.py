@@ -58,7 +58,7 @@ if eligible_users:
         print("- {}".format(user))
         print("\n")
 else:
-    print("No users are eligible for insurance coverage.")
+    print(" Users are not eligible for insurance coverage.")
     print("\n")
     
 print("----------------------------------------------------")
